@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://gist.github.com/migueelzz/b94c0871dc6d38bdc18ced3b85cbaecc">
+</p>
+### Hi dear 👋 I'm Miguel Lemes
 
-<!--
-**migueelzz/migueelzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### I'm Web developer, javascript lover, Enthusiast of the best web & mobile development technologies, student of all programming universe.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack: 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/) [![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)](https://reactjs.org/) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/) [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=migueelzz&show_icons=true&theme=github_dark" alt="Miguel's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueelzz&layout=compact&theme=github_dark " alt="Top Langs">
+</p>
+
+
+
+
+### 🍪 Contact me
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/)
+[![Gmail Badge](https://img.shields.io/badge/-miguellemes005@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:miguellemes005@gmail.com)
+
+⭐️ From [migueelzz](https://github.com/R3tr074)
+
+
