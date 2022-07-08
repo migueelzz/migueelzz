@@ -1,7 +1,7 @@
 ### Hi dear 👋 I'm Miguel Lemes
 
 ---
-#### I'm Web developer, javascript lover, Enthusiast of the best web & mobile development technologies, student of all programming universe.
+#### I'm Web developer, student of all programming universe.
 
 
 # 💻 Tech Stack: 
