@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/)
 [![Gmail Badge](https://img.shields.io/badge/-miguellemes005@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:miguellemes005@gmail.com)
 
-⭐️ From [migueelzz](https://github.com/R3tr074)
+⭐️ From [migueelzz](https://github.com/migueelzz)
 
 
 
