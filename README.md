@@ -1,4 +1,4 @@
-### Hi, I'm Miguel Lemes
+### 👋 Hi, I'm Miguel Lemes
 
 ---
 #### I'm Web developer, student of all programming universe.
