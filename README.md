@@ -13,10 +13,6 @@ I'm Web developer, student of all programming universe.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueelzz&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
 </div>
 
-
-
-<img align="right" alt="migueelzz gif" height="120px" style="border-radius: 150px;" src="https://user-images.githubusercontent.com/74062845/177490199-23594186-6da6-4649-af0a-96c82412ae6c.gif" rounded/>
-
 #### 💬 Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/)
 [![Gmail Badge](https://img.shields.io/badge/-miguellemes005@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:miguellemes005@gmail.com)
