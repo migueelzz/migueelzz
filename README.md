@@ -8,7 +8,7 @@ Desenvolvedor de Software - Frontend
 
 Entusiasta das melhores tecnologias de desenvolvimento web & mobile.
 
-É essencial sempre querer evoluir e aprender mais a cada dia para se tornar um ótimo profissional e conseguir contribuir com seu ambiente de trabalho.
+É essencial sempre querer evoluir e aprender mais a cada dia para se tornar um ótimo profissional para contribuir com seu ambiente de trabalho.
 
 
 
