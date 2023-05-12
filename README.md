@@ -1,6 +1,6 @@
 ### Miguel Lemes
 
-Desenvolvedor de Software - Frontend
+Desenvolvedor de Software
 
 [![Twitter Badge](https://img.shields.io/badge/-@_migueelzz-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/_migueelzz)](https://twitter.com/_migueelzz) 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/) 
