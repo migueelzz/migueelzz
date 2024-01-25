@@ -10,6 +10,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-6b21a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/) 
 [![Gmail Badge](https://img.shields.io/badge/-miguellemes005@gmail.com-6b21a8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellemes005@gmail.com)](mailto:miguellemes005@gmail.com)
 
+
+## Discord + Github data
+
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row">
     <img
