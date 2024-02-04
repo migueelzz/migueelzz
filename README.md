@@ -11,22 +11,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-miguel.hlemes.s@gmail.com-6b21a8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguel.hlemes.s@gmail.com)](mailto:miguel.hlemes.s@gmail.com)
 
 
-## Discord + Github data
-
-<div style="display: flex; flex-direction: column">
-  <div style="display: flex; flex-direction: row">
-    <img
-	style="min-width: 134px; max-height: 134px;"
-	 width="320"
-        src="https://lanyard-profile-readme.vercel.app/api/328518629207441418?theme=dark&bg=000000&animated=false&borderRadius=10px"
-     />
-     <img
-	style="min-width: 164px;"
-	height="164"
-        src="https://streak-stats.demolab.com/?user=migueelzz&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      />
-   </div>
-</div>
-
 
 
