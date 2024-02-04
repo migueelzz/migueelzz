@@ -1,7 +1,7 @@
 # Hello, I'm Miguel Lemes 👋
 
 <div>
-  I'm full stack developer from Brazil.</br></br>
+  Software Enginner from Brazil.</br></br>
   Systems Analysis and Development Student at @Fatec Lins.</br>
   Enthusiast of the best web & mobile development technologies. 👾</br></br>
 </div>
