@@ -1,12 +1,12 @@
 # Hello, I'm Miguel 👋
 
-  - 🚀 I'm a Software developer from Brazil.
+  - 🚀 I'm a Software Developer from Brazil.
   - 📗 Systems Analysis and Development Student at @Fatec Lins.
   - 👾 Enthusiast of the best web & mobile development technologies.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwindcss,nextjs,nestjs,docker,postgres,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwindcss,java,spring,postgres,redis,docker,aws)](https://skillicons.dev)
 
 ### 📫 Reach me
 
