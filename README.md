@@ -1,8 +1,8 @@
-# Hello, I'm Miguel 👋
+# Hello, I'm Miguel Lemes
 
-  - 🚀 I'm a Software Developer from Brazil.
-  - 📗 Systems Analysis and Development Student at @Fatec Lins.
-  - 👾 Enthusiast of the best web & mobile development technologies.
+  - 👋 I'm a Software Developer from Brazil.
+  - 🎓 Systems Analysis and Development Student at @Fatec Lins.
+  - 🚀 Enthusiast of the best web & mobile development technologies.
 
 ### My Skills
 
