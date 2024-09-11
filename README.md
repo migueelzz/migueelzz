@@ -1,4 +1,4 @@
-# Hello, I'm Miguel Lemes
+# Hi, I'm Miguel Lemes
 
   - 👋 I'm a Full Stack Developer from Brazil.
   - 🎓 Systems Analysis and Development Student at @Fatec Lins.
@@ -6,7 +6,7 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwindcss,java,spring,postgres,rabbitmq,redis,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,figma,tailwindcss,java,spring,postgres,rabbitmq,redis,docker,aws)](https://skillicons.dev)
 
 ### 📫 Reach me
 
