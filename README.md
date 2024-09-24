@@ -6,7 +6,7 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,figma,tailwindcss,java,spring,postgres,rabbitmq,redis,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,ts,tailwindcss,figma,java,spring,postgres,redis,docker,rabbitmq,aws)](https://skillicons.dev)
 
 ### 📫 Reach me
 
