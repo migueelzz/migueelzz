@@ -6,7 +6,7 @@
 
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,ts,nodejs,tailwindcss,figma,postgres,docker,redis,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,next,tailwindcss,figma,postgres,redis,docker,aws)](https://skillicons.dev)
 
 ### Reach me
 
