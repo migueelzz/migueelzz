@@ -11,7 +11,7 @@
 ### Reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lemes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueelzz/)](https://www.linkedin.com/in/migueelzz/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellemes005@gmail.com)](mailto:miguellemes005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-miguellemes005@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellemes005@gmail.com)](mailto:miguellemes005@gmail.com)
 
 
 
