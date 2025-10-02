@@ -1,6 +1,6 @@
 ### Hi, I'm Miguel! 👋
 
-- 🇧🇷 I'm a Software Engineer & UI/UX from Brazil  
+- 🇧🇷 I'm a Software Engineer Brazil  
 - 💛 I love JavaScript and its ecosystem  
 - 🎯 Focused on developing interfaces that help and improve the user experience  
 
