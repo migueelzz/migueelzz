@@ -1,13 +1,13 @@
 ### Hi, I'm Miguel! 👋
 
 - 🇧🇷 I'm a Software Engineer Brazil  
-- 💛 I love JavaScript and its ecosystem  
+- 💛 Javascript Lover
 - 🎯 Focused on developing interfaces that help and improve the user experience  
 
 ---
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,next,tailwindcss,figma,postgres,redis,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,python,ts,react,postgres,redis,docker,rabbitmq,aws)](https://skillicons.dev)
 
 ---
 
